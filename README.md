@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a DevOps Project Road Map, that takes a simple source code and implements the most common DevOps iterations to it.
 Find Details about the project here: https://www.devopswithsyed.com and https://www.linkedin.com/feed/update/urn:li:activity:7122220432383967233/
 ![image](https://github.com/syednadeembe/project_sessions/assets/29227348/203370cc-e093-4fb0-b3d4-dfc741715613)
@@ -63,3 +64,6 @@ Dry run and state session management will be checked. Component Network will be 
 2. continuous deployment : fluxcd / argocd
 3. continuous delivery : with jenkins
 4. promotion process : dev,qa,stage and production
+=======
+# my-project
+>>>>>>> 21c4a1244d2004db79fb7f80a2ff131a6359440a
